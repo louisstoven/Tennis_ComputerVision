@@ -22,7 +22,7 @@ Match Statistics: Compiles and visualizes statistics such as shot counts, player
 User Interface: Features an intuitive interface for displaying analysis results and visualizations.
 
 ## Technologies Used
-YOLO (You Only Look Once): For real-time object detection in video frames.
+YOLO: For real-time object detection in video frames.
 PyTorch: For building and training deep learning models.
 OpenCV: For video processing and manipulation.
 NumPy: For numerical operations and data handling.
